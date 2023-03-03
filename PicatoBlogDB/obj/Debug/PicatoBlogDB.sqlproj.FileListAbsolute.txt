@@ -1,0 +1,10 @@
+C:\Users\joshu\source\repos\PicatoLE2\PicatoBlogDB\bin\Debug\PicatoBlogDB.dacpac
+C:\Users\joshu\source\repos\PicatoLE2\PicatoBlogDB\obj\Debug\PicatoBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\joshu\source\repos\PicatoLE2\PicatoBlogDB\obj\Debug\Model.xml
+C:\Users\joshu\source\repos\PicatoLE2\PicatoBlogDB\obj\Debug\refactor.xml
+C:\Users\joshu\source\repos\PicatoLE2\PicatoBlogDB\obj\Debug\postdeploy.sql
+C:\Users\joshu\source\repos\PicatoLE2\PicatoBlogDB\obj\Debug\predeploy.sql
+C:\Users\joshu\source\repos\PicatoLE2\PicatoBlogDB\obj\Debug\PicatoBlogDB.dll
+C:\Users\joshu\source\repos\PicatoLE2\PicatoBlogDB\obj\Debug\PicatoBlogDB.pdb
+C:\Users\joshu\source\repos\PicatoLE2\PicatoBlogDB\bin\Debug\PicatoBlogDB.dll
+C:\Users\joshu\source\repos\PicatoLE2\PicatoBlogDB\bin\Debug\PicatoBlogDB.pdb
